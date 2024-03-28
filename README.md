@@ -1,6 +1,3 @@
-- 👋 Hi, There
-
-  I'm Firda Maretha from Indonesia, Live in Türkiye. I'm Front-End Developer
 
  ### Hi there 👋, my name is Firda Maretha
 #### I am Front-End Developer
